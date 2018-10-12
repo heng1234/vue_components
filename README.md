@@ -1,4 +1,4 @@
-# yh_vue_course
+# vue_components
 
 > A Vue.js project
 
